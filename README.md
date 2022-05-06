@@ -38,6 +38,7 @@
 ※1 厚生労働省はコンプライアンスを遵守していないブラック企業を公開していますが、公的機関として検索サービスを提供しておりません。しかしながら、これから就職する企業がブラック企業かどうかを知るのは労働者にとって死活問題なので、民間のサービスを載せております。**これらは公的に保証されたものではありません。** 複数記載しておきますので、見比べるなどしてください。
 
 ### 職業訓練
+* [厚生労働省 人材開発](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/index.html) - 厚生労働省が行っている職業訓練についてまとめられています。
 * [東京都 都立職業能力開発センター](https://www.hataraku.metro.tokyo.lg.jp/kyushokusha-kunren/school/) - 就職に向けて必要な知識・技能を学ぶことができます。
 * [厚生労働省 ハロートレーニング](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/hellotraining_top.html) - 就職に向けて必要な知識・技能を学ぶことができます。
 * [独立行政法人高齢・障害・求職者雇用支援機構 職業訓練開発大学校](https://www.uitec.jeed.go.jp/) - 職業訓練指導員の養成等を目的とした職業訓練機関です。ほかの職業訓練校と違い、卒業すると学士を取得できます。
@@ -66,5 +67,6 @@
 * [独立行政法人情報処理推進機構 情報セキュリティ情報](https://www.ipa.go.jp/security/) - 情報セキュリティ・脆弱性に関する情報がのっています。
 * [警察庁 サイバー犯罪対策プロジェクト](https://www.npa.go.jp/cyber/index.html) - サイバー犯罪に対する情報や相談先などがのっています。
 * [独立行政法人情報処理推進機構 セキュリティ・キャンプ](https://www.ipa.go.jp/jinzai/camp/index.html) - 学生に対して情報セキュリティに関する高度な技術教育を実施します。
+* [国立研究開発法人情報通信研究機構 SecHack365](https://sechack365.nict.go.jp/) - 1年間のハッカソンによってサイバーセキュリティを考慮した作品づくりに取り組みます。
 * [JPCERT/CCおよび独立行政法人情報処理推進機構 JVN](https://jvn.jp/) - JPCERT/CCとIPAが運営する脆弱性情報のデータベースです。
 
