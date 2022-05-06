@@ -66,5 +66,5 @@
 * [独立行政法人情報処理推進機構 情報セキュリティ情報](https://www.ipa.go.jp/security/) - 情報セキュリティ・脆弱性に関する情報がのっています。
 * [警察庁 サイバー犯罪対策プロジェクト](https://www.npa.go.jp/cyber/index.html) - サイバー犯罪に対する情報や相談先などがのっています。
 * [独立行政法人情報処理推進機構 セキュリティ・キャンプ](https://www.ipa.go.jp/jinzai/camp/index.html) - 学生に対して情報セキュリティに関する高度な技術教育を実施します。
-* [JVN](https://jvn.jp/) - JPCERT/CCとIPAが運営する脆弱性情報のデータベースです。
+* [JPCERT/CCおよび独立行政法人情報処理推進機構 JVN](https://jvn.jp/) - JPCERT/CCとIPAが運営する脆弱性情報のデータベースです。
 
