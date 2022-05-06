@@ -19,12 +19,12 @@
 
 ### 投資
 * [金融庁 金融庁Youtubeチャンネル](https://www.youtube.com/channel/UCpIgZIDc-ptkZZTvzqlwGQg) - 動画として投資に関する情報を発信しています。
-* <a href="tel:188">消費者庁 消費者ホットライン188(電話)</a> - 投資に関する消費者トラブル等を相談することができます。
+* [消費者庁 消費者ホットライン188](https://www.caa.go.jp/policies/policy/local_cooperation/local_consumer_administration/hotline/) - 投資に関する消費者トラブル等を相談することができます。
 * [金融庁 免許・許可・登録等を受けている業者一覧](https://www.fsa.go.jp/menkyo/menkyo.html#kinyushohin) - 投資勧誘を行うには、金融商品取引業の登録を受ける必要があります。投資勧誘を受けた場合、必ず確認しましょう。
 * [国税庁 税についての相談窓口](https://www.nta.go.jp/taxes/shiraberu/shirabekata/9200.htm) - NISA等の例外を除く、投資での売買益は課税対象です。これは国税庁による国税の相談窓口です。
 
 ### 消費者トラブル
-* <a href="tel:188">消費者庁 消費者ホットライン188(電話)</a> - 消費者トラブル等を相談することができます。
+* [消費者庁 消費者ホットライン188](https://www.caa.go.jp/policies/policy/local_cooperation/local_consumer_administration/hotline/) - 消費者トラブル等を相談することができます。
 * [消費者庁 特定商取引法等の行政処分情報](https://www.caa.go.jp/policies/policy/consumer_transaction/release/) - 悪質な業者への行政処分の情報が載っています。
 * [消費者庁 リコール情報サイト](https://www.recall.caa.go.jp/) - リコール情報の一覧です。
 * [消費者庁 消費者教育ポータルサイト](https://www.kportal.caa.go.jp/) - 消費者教育を受けることができます。
