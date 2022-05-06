@@ -9,6 +9,9 @@
 
 ## Contents
 
+### 生活保護
+* [厚生労働省 生活保護制度](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html) - 生活に困窮する方に対して、健康で文化的な最低限度の生活を保障するため、支援を行う制度です。
+
 ### 労働問題
 * [厚生労働省 総合労働相談コーナー](https://www.mhlw.go.jp/general/seido/chihou/kaiketu/soudan.html) - 職場のトラブルの相談や、解決のための情報が載っています。
 
