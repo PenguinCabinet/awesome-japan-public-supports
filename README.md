@@ -42,7 +42,9 @@
 * [厚生労働省 人材開発](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/index.html) - 厚生労働省が行っている職業訓練についてまとめられています。
 * [東京都 都立職業能力開発センター](https://www.hataraku.metro.tokyo.lg.jp/kyushokusha-kunren/school/) - 就職に向けて必要な知識・技能を学ぶことができます。
 * [厚生労働省 ハロートレーニング](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/hellotraining_top.html) - 就職に向けて必要な知識・技能を学ぶことができます。
-* [独立行政法人高齢・障害・求職者雇用支援機構 職業訓練開発大学校](https://www.uitec.jeed.go.jp/) - 職業訓練指導員の養成等を目的とした職業訓練機関です。ほかの職業訓練校と違い、卒業すると学士を取得できます。
+* [独立行政法人高齢・障害・求職者雇用支援機構 職業能力開発促進センター一覧](https://www.jeed.go.jp/location/poly/index.html) - 全国に設置されていて、職業訓練や人材育成等の支援を行っています。
+* [独立行政法人高齢・障害・求職者雇用支援機構 全国の職業能力開発大学校／職業能力開発短期大学校の一覧](https://www.jeed.go.jp/location/college/2.html) - 全国に設置されていて、高校卒業者等の方を対象に、ものづくりの基本を習得し、企業の製造現場での最新の技能・技術に対応できる人材の養成をおこなっています。
+* [独立行政法人高齢・障害・求職者雇用支援機構 職業訓練開発総合大学校](https://www.uitec.jeed.go.jp/) - 職業訓練指導員の養成等を目的とした職業訓練機関です。ほかの職業能力開発大学校と違い、卒業すると学士を取得できます。
 * [厚生労働省 雇用保険手続きのご案内](https://www.hellowork.mhlw.go.jp/insurance/insurance_guide.html) - 雇用保険では、失業中の生活や再就職の支援のため失業等給付を支給をしています。
 
 #### 情報通信技術
